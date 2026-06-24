@@ -1,0 +1,1 @@
+# Static_Routes_i_konfigrisanje_Stati-nih_ruta_u_Cisco_Packet_Tracer-u
